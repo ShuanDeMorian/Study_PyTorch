@@ -22,7 +22,3 @@ PyTorch의 핵심에는 2가지 주요한 특징이 있습니다.
     2. PyTorch: optim
     3. PyTorch: 사용자 정의 nn 모듈
     4. PyTorch: 제어 흐름(Control Flow) + 가중치 공유(Weight Sharing)
-4. 예제 코드
-    1. Tensor
-    2. Autograd
-    3. nn 모듈
