@@ -16,3 +16,5 @@ https://tutorials.pytorch.kr/beginner/deep_learning_60min_blitz.html
 3. 분류기(Classifier) 학습하기
 4. Optional: Data Parallelism
 
+
+
